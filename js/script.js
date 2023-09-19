@@ -34,7 +34,6 @@ tl.to('.page1', {
 // JavaScript to display the warning message
 window.addEventListener('DOMContentLoaded', () => {
     const warningMessage = document.getElementById('warningMessage');
-    // document.body.style.backgroundColor = '#C4BCB2'
 
     function checkWidth() {
         if (window.innerWidth < 1300) {
