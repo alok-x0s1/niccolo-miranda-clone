@@ -1,6 +1,10 @@
 # Niccolo Miranda Website Clone
 
-![Website Screenshot](./Images/Screenshot 2023-09-20 000937.png)
+![Website Screenshot](/Images/Screenshot%202023-09-20%20000937.png)
+
+![Website Screenshot](/Images/Screenshot%202023-09-20%20001015.png)
+
+![Website Screenshot](/Images/Screenshot%202023-09-20%20001041.png)
 
 This repository contains a clone of the Niccolo Miranda website created using HTML, CSS, and JavaScript. The website has been designed to replicate the appearance and functionality of the original Niccolo Miranda website.
 
