@@ -20,6 +20,12 @@
     overflow-x: hidden;
 }
 
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
 .main {
     /* background-color: rgba(0, 0, 0, 0.8); */
     background-color: #C4BCB2;
